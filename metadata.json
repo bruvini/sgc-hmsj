@@ -1,0 +1,5 @@
+{
+  "name": "SGC - Sistema de Gestão de Cirurgias",
+  "description": "Sistema para gestão e monitoramento de solicitações de cirurgias eletivas do Hospital Municipal São José (HMSJ).",
+  "requestFramePermissions": []
+}

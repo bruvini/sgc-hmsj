@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --color-navy: #002B5C;
+  --color-navy-light: #003F87;
+  --color-navy-dark: #001A38;
+  --color-navy-hover: #004080;
+  --font-sans: var(--font-montserrat);
+}
+
+body {
+  @apply bg-slate-50 text-slate-900;
+}
